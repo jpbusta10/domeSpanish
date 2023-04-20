@@ -1,0 +1,8 @@
+DOME
+this is a repository that stores data from users CDs and DVDs collection
+
+user enters the data threw a menu then they can check for it by printing the information in console.
+
+It implement a super class elemento(element) with fathers CD and DVD then in Dome class contains an arrayList of elemento.
+
+It contains a simple switch manu to navigate the different options.
